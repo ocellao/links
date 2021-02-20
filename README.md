@@ -1,7 +1,7 @@
 # Links Cellão - Douglas Barcellos
 This is a bootstrap one page application devoloped for just sharing social links.
 
-To host you can use either<br>
+Hospedado em<br>
 <b>Github: </b> https://github.com/ocellao
 <br>
 
