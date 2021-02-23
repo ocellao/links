@@ -1,5 +1,5 @@
 # Links Cellão - Douglas Barcellos
-Página responsiva simples, desenvolvida apenas para compartilhar links sociais e facilitar a minha vida.
+Página responsiva simples, desenvolvida apenas para compartilhar links sociais e facilitar a minha vida.<br>
 Intuito: permanecer treinando e deixando o cérebro ativo.
 
 Hospedado em<br>
