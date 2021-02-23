@@ -2,7 +2,6 @@
 Página responsiva simples, desenvolvida apenas para compartilhar links sociais e facilitar a minha vida.
 Intuito: permanecer treinando e deixando o cérebro ativo.
 
-
 Hospedado em<br>
 <b>Github: </b> https://github.com/ocellao
 <br>
